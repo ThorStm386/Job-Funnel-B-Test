@@ -1,0 +1,20 @@
+<template>
+    <div>
+        <header>
+            <nav>
+                <ul>
+                    <li>
+                        <!-- <NuxtLink to="/">Home</NuxtLink> -->
+                    </li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+
+    <div>
+        <slot>
+
+        </slot>
+    </div>
+
+</template>
