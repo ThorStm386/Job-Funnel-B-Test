@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Page Title</h1>
 
-    <!-- Counter -->
+   
     <div>
       <p>Count: {{ count }}</p>
       <button @click="count++">+</button>
